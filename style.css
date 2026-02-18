@@ -121,7 +121,7 @@ nav ul li a {
 
     font-weight: 400;
 
-    font-size: 13px;
+    font-size: 12px;
 
     white-space: nowrap;
 
@@ -424,4 +424,5 @@ footer {
     object-fit: cover;
     /* Crops image to fill box evenly */
 }
+
 
