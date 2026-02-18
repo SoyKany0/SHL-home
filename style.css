@@ -87,7 +87,7 @@ header {
 
 .nav-logo {
 
-    height: 77px;
+    height: 74px;
 
     border-radius: 50%;
 
@@ -121,7 +121,7 @@ nav ul li a {
 
     font-weight: 400;
 
-    font-size: 14px;
+    font-size: 13px;
 
     white-space: nowrap;
 
@@ -424,3 +424,4 @@ footer {
     object-fit: cover;
     /* Crops image to fill box evenly */
 }
+
